@@ -1,1 +1,5 @@
-# CPT_S_483_Group_5
+# Group 5 Final Project
+
+Members:
+Aaron Newton
+Carlos Campos
