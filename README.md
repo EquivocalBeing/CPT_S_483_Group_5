@@ -2,5 +2,4 @@
 
 Members:
 
-Aaron Newton
-Carlos Campos
+Aaron Newton & Carlos Campos
